@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.span1 {
+  color:blue
+}
+.span2 {
+  color: rgb(182, 154, 209);
+}
+.span3 {
+  color: rgb(18, 109, 79);
+}
+span {
+  color: crimson;
+}
